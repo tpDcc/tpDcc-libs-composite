@@ -10,5 +10,5 @@ from tpDcc.libs.composite import __version__
 import pytest
 
 
-def test_version(self):
+def test_version():
     assert __version__.get_version()
