@@ -6,7 +6,6 @@ before_install:
 - pip install coveralls
 - pip install sphinx
 - pip install sphinx_rtd_theme
-- pip install tpDcc-libs-unittests
 install:
 - python setup.py install
 script:
