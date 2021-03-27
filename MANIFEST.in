@@ -1,0 +1,3 @@
+include tpDcc/libs/composite/__logging__.ini
+include versioneer.py
+include tpDcc/libs/composite/_version.py
